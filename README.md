@@ -12,10 +12,10 @@ Working concept for [@GeoSn0w](https://github.com/GeoSn0w)'s Blizzard jailbreak 
 ## Screenshots
 Device | Screenshot
 :---: | :---:
-iPhone 14 Pro (iOS 16) | <img src="screenshots/14pro.png" alt="iPhone 14 Pro" width="200">
-iPad Pro (iOS 16) | <img src="screenshots/ipadpro.png" alt="iPad Pro" width="200">
-iPhone 13 Pro (iOS 15) (Dark mode) | <img src="screenshots/13pro.png" alt="iPhone 13 Pro" width="200">
-iPhone 8 (iOS 16) (Dark mode) | <img src="screenshots/8.png" alt="iPhone 8" width="200">
+iPhone 14 Pro<br />(iOS 16) | <img src="screenshots/14pro.png" alt="iPhone 14 Pro" width="200">
+iPad Pro<br />(iOS 16) | <img src="screenshots/ipadpro.png" alt="iPad Pro" width="200">
+iPhone 13 Pro<br />(iOS 15) (Dark mode) | <img src="screenshots/13pro.png" alt="iPhone 13 Pro" width="200">
+iPhone 8<br />(iOS 16) (Dark mode) | <img src="screenshots/8.png" alt="iPhone 8" width="200">
 **Video** | <img src="screenshots/video.gif" alt="Video" width="200">
 
 ## Known issues
